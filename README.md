@@ -20,8 +20,8 @@
 ---
 
 ## 🛠️ 기술 스택
-* **Backend**: 'C++' (프로그램의 모든 핵심 로직을 C++언어로 직접 구현)
-* **Frontend**: '콘솔 입출력 C++ iostream' (별도의 GUI없이 콘솔 환경에서 구현)
+* **Backend**: 'C++' 
+* **Frontend**: '콘솔 입출력 C++ iostream' 
 * **IDE**: 'visual studio 2022'
 
 ---
