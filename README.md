@@ -20,9 +20,9 @@
 ---
 
 ## 🛠️ 기술 스택
-* **Backend**: 'C++' 
-* **Frontend**: '콘솔 입출력 C++ iostream' 
-* **IDE**: 'visual studio 2022'
+* **Backend**: C++ 
+* **Frontend**: 콘솔 입출력 C++ iostream 
+* **IDE**: visual studio 2022
 
 ---
 
