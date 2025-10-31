@@ -51,11 +51,19 @@ std::map을 활용하여 날짜별(YYYY-MM-DD)로 예약 데이터를 관리하�
 ## 🚀 주요 기능
 
 1. 신규 예약 진행 기능
+   콘솔 환경에서 신규 예약을 진행하는 핵심 로직을 구현
+**주요 기능 상세:**
+1. 사용자로부터 'YYYY-MM-DD' 형식으로 예약 날짜를 입력
+2. 입력 받은 날짜의 예약 가능 시간대 목록을 조회하여 출력
+3. 시간대별로 [번호,시간,가격,예약 상태(가능/불가)]를 명확하게 표시
+4. 사용자가 출력된 목록에서 원하는 시작 시간대의 번호를 선택하여 다음 단계 진행   
 <img width="1112" height="630" alt="캡처1" src="https://github.com/user-attachments/assets/459cd6bc-b255-4260-8584-770ba53a2578" />
-
-2. 예약 확인 기능
 <img width="1112" height="621" alt="캡처2" src="https://github.com/user-attachments/assets/e1b06cad-5858-4c6a-9ab0-ca20f5f255db" />
-
-3. 예약 취소 기능
+2. 예약 취소 기능
+   날짜를 기준으로 예약된 내역을 간편하게 일괄 취소
+**주요 기능 상세:**
+1. 현재 예약이 완료된 날짜 목록 표시
+2. 취소하고 싶은 날짜를 'YYYY--MM--DD' 형식으로 입력
+3. 해당 날짜에 연결된 모든 예약 건이 즉시 일괄 취소 처리   
 <img width="1109" height="624" alt="캡처3" src="https://github.com/user-attachments/assets/8926588d-41bb-4761-bb4d-ab50bcdbe6b5" />
 
