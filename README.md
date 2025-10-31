@@ -47,3 +47,15 @@ std::map을 활용하여 날짜별(YYYY-MM-DD)로 예약 데이터를 관리하�
 
 날짜 및 시간 입력 시 발생할 수 있는 오류를 처리하고 사용자에게 안내하는 등 안정적인 인터페이스를 구축
 
+
+## 🚀 주요 기능
+
+1. 신규 예약 진행 기능
+<img width="1112" height="630" alt="캡처1" src="https://github.com/user-attachments/assets/459cd6bc-b255-4260-8584-770ba53a2578" />
+
+2. 예약 확인 기능
+<img width="1112" height="621" alt="캡처2" src="https://github.com/user-attachments/assets/e1b06cad-5858-4c6a-9ab0-ca20f5f255db" />
+
+3. 예약 취소 기능
+<img width="1109" height="624" alt="캡처3" src="https://github.com/user-attachments/assets/8926588d-41bb-4761-bb4d-ab50bcdbe6b5" />
+
